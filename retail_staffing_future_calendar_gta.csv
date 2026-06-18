@@ -1,0 +1,85 @@
+date,store_id,mall_location,weekday,week_of_year,promotion
+2026-03-05,Yorkdale,Yorkdale Shopping Centre,Thursday,10,0
+2026-03-06,Yorkdale,Yorkdale Shopping Centre,Friday,10,0
+2026-03-07,Yorkdale,Yorkdale Shopping Centre,Saturday,10,1
+2026-03-08,Yorkdale,Yorkdale Shopping Centre,Sunday,10,0
+2026-03-09,Yorkdale,Yorkdale Shopping Centre,Monday,11,0
+2026-03-10,Yorkdale,Yorkdale Shopping Centre,Tuesday,11,1
+2026-03-11,Yorkdale,Yorkdale Shopping Centre,Wednesday,11,0
+2026-03-12,Yorkdale,Yorkdale Shopping Centre,Thursday,11,0
+2026-03-13,Yorkdale,Yorkdale Shopping Centre,Friday,11,0
+2026-03-14,Yorkdale,Yorkdale Shopping Centre,Saturday,11,0
+2026-03-15,Yorkdale,Yorkdale Shopping Centre,Sunday,11,0
+2026-03-16,Yorkdale,Yorkdale Shopping Centre,Monday,12,0
+2026-03-17,Yorkdale,Yorkdale Shopping Centre,Tuesday,12,0
+2026-03-18,Yorkdale,Yorkdale Shopping Centre,Wednesday,12,0
+2026-03-19,Yorkdale,Yorkdale Shopping Centre,Thursday,12,0
+2026-03-20,Yorkdale,Yorkdale Shopping Centre,Friday,12,0
+2026-03-21,Yorkdale,Yorkdale Shopping Centre,Saturday,12,1
+2026-03-22,Yorkdale,Yorkdale Shopping Centre,Sunday,12,0
+2026-03-23,Yorkdale,Yorkdale Shopping Centre,Monday,13,0
+2026-03-24,Yorkdale,Yorkdale Shopping Centre,Tuesday,13,0
+2026-03-25,Yorkdale,Yorkdale Shopping Centre,Wednesday,13,0
+2026-03-26,Yorkdale,Yorkdale Shopping Centre,Thursday,13,0
+2026-03-27,Yorkdale,Yorkdale Shopping Centre,Friday,13,0
+2026-03-28,Yorkdale,Yorkdale Shopping Centre,Saturday,13,0
+2026-03-29,Yorkdale,Yorkdale Shopping Centre,Sunday,13,0
+2026-03-30,Yorkdale,Yorkdale Shopping Centre,Monday,14,1
+2026-03-31,Yorkdale,Yorkdale Shopping Centre,Tuesday,14,0
+2026-04-01,Yorkdale,Yorkdale Shopping Centre,Wednesday,14,0
+2026-03-05,SquareOne,Square One Shopping Centre,Thursday,10,0
+2026-03-06,SquareOne,Square One Shopping Centre,Friday,10,0
+2026-03-07,SquareOne,Square One Shopping Centre,Saturday,10,0
+2026-03-08,SquareOne,Square One Shopping Centre,Sunday,10,0
+2026-03-09,SquareOne,Square One Shopping Centre,Monday,11,0
+2026-03-10,SquareOne,Square One Shopping Centre,Tuesday,11,0
+2026-03-11,SquareOne,Square One Shopping Centre,Wednesday,11,0
+2026-03-12,SquareOne,Square One Shopping Centre,Thursday,11,0
+2026-03-13,SquareOne,Square One Shopping Centre,Friday,11,0
+2026-03-14,SquareOne,Square One Shopping Centre,Saturday,11,0
+2026-03-15,SquareOne,Square One Shopping Centre,Sunday,11,0
+2026-03-16,SquareOne,Square One Shopping Centre,Monday,12,0
+2026-03-17,SquareOne,Square One Shopping Centre,Tuesday,12,0
+2026-03-18,SquareOne,Square One Shopping Centre,Wednesday,12,0
+2026-03-19,SquareOne,Square One Shopping Centre,Thursday,12,0
+2026-03-20,SquareOne,Square One Shopping Centre,Friday,12,0
+2026-03-21,SquareOne,Square One Shopping Centre,Saturday,12,0
+2026-03-22,SquareOne,Square One Shopping Centre,Sunday,12,0
+2026-03-23,SquareOne,Square One Shopping Centre,Monday,13,0
+2026-03-24,SquareOne,Square One Shopping Centre,Tuesday,13,0
+2026-03-25,SquareOne,Square One Shopping Centre,Wednesday,13,0
+2026-03-26,SquareOne,Square One Shopping Centre,Thursday,13,0
+2026-03-27,SquareOne,Square One Shopping Centre,Friday,13,0
+2026-03-28,SquareOne,Square One Shopping Centre,Saturday,13,0
+2026-03-29,SquareOne,Square One Shopping Centre,Sunday,13,0
+2026-03-30,SquareOne,Square One Shopping Centre,Monday,14,0
+2026-03-31,SquareOne,Square One Shopping Centre,Tuesday,14,0
+2026-04-01,SquareOne,Square One Shopping Centre,Wednesday,14,0
+2026-03-05,EatonCentre,CF Toronto Eaton Centre,Thursday,10,0
+2026-03-06,EatonCentre,CF Toronto Eaton Centre,Friday,10,0
+2026-03-07,EatonCentre,CF Toronto Eaton Centre,Saturday,10,0
+2026-03-08,EatonCentre,CF Toronto Eaton Centre,Sunday,10,0
+2026-03-09,EatonCentre,CF Toronto Eaton Centre,Monday,11,0
+2026-03-10,EatonCentre,CF Toronto Eaton Centre,Tuesday,11,0
+2026-03-11,EatonCentre,CF Toronto Eaton Centre,Wednesday,11,0
+2026-03-12,EatonCentre,CF Toronto Eaton Centre,Thursday,11,0
+2026-03-13,EatonCentre,CF Toronto Eaton Centre,Friday,11,0
+2026-03-14,EatonCentre,CF Toronto Eaton Centre,Saturday,11,0
+2026-03-15,EatonCentre,CF Toronto Eaton Centre,Sunday,11,0
+2026-03-16,EatonCentre,CF Toronto Eaton Centre,Monday,12,0
+2026-03-17,EatonCentre,CF Toronto Eaton Centre,Tuesday,12,0
+2026-03-18,EatonCentre,CF Toronto Eaton Centre,Wednesday,12,0
+2026-03-19,EatonCentre,CF Toronto Eaton Centre,Thursday,12,0
+2026-03-20,EatonCentre,CF Toronto Eaton Centre,Friday,12,0
+2026-03-21,EatonCentre,CF Toronto Eaton Centre,Saturday,12,0
+2026-03-22,EatonCentre,CF Toronto Eaton Centre,Sunday,12,0
+2026-03-23,EatonCentre,CF Toronto Eaton Centre,Monday,13,0
+2026-03-24,EatonCentre,CF Toronto Eaton Centre,Tuesday,13,0
+2026-03-25,EatonCentre,CF Toronto Eaton Centre,Wednesday,13,0
+2026-03-26,EatonCentre,CF Toronto Eaton Centre,Thursday,13,0
+2026-03-27,EatonCentre,CF Toronto Eaton Centre,Friday,13,0
+2026-03-28,EatonCentre,CF Toronto Eaton Centre,Saturday,13,0
+2026-03-29,EatonCentre,CF Toronto Eaton Centre,Sunday,13,0
+2026-03-30,EatonCentre,CF Toronto Eaton Centre,Monday,14,0
+2026-03-31,EatonCentre,CF Toronto Eaton Centre,Tuesday,14,0
+2026-04-01,EatonCentre,CF Toronto Eaton Centre,Wednesday,14,0
